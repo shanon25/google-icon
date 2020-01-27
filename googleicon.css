@@ -1,0 +1,24 @@
+#G{
+    color:blue;
+    font-size: 150px;
+}
+#O{
+    color: red;
+    font-size: 150px;
+}
+#N{
+    color: yellow;
+    font-size: 150px;
+}
+#L{
+    color:rgb(16, 216, 16);
+    font-size: 150px;
+}
+#E{
+    color: red;
+    font-size: 150px;
+}
+#go{
+    text-align: center;
+    padding-top: 80px;
+}
